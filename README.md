@@ -2,9 +2,9 @@
 
 User-facing support site for [Moliboard](https://apps.apple.com/) — a macOS keyboard piano for small kids.
 
-**Live site:** https://qiguangyang.github.io/moliboard-support/
+**Live site:** https://opcify.github.io/moliboard-support/
 
-**Privacy policy:** https://qiguangyang.github.io/moliboard-support/PRIVACY.html
+**Privacy policy:** https://opcify.github.io/moliboard-support/PRIVACY.html
 
 **Contact:** qiguangyang@gmail.com
 
