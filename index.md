@@ -11,7 +11,7 @@ This page is where to come for help, FAQ, and contact info. The [privacy policy]
 
 ## Contact
 
-- **Email:** [qiguangyang@gmail.com](mailto:qiguangyang@gmail.com)
+- **Email:** [yang.qi@opcify.ai]
 - **Typical response time:** within two working days.
 - When writing, it helps us a lot if you include the app version (visible in *Moliboard → About*), your macOS version, and — for bugs — a short description of what you were doing right before the issue.
 
@@ -131,7 +131,7 @@ Yes. Moliboard is a regular sandboxed app and respects all system parental-contr
 
 ## Reporting a bug
 
-Email [qiguangyang@gmail.com](mailto:qiguangyang@gmail.com) with:
+Email [yang.qi@opcify.ai]with:
 
 1. **App version** — visible in *Moliboard → About*.
 2. **macOS version** — visible in  → *About This Mac*.

@@ -125,6 +125,6 @@ We will never quietly change this policy. If the summary at the top ever stops s
 
 Questions about privacy, or a request for a formal written confirmation of any of the above:
 
-- **Email:** [qiguangyang@gmail.com](mailto:qiguangyang@gmail.com)
+- **Email:** yang.qi@opcify.ai
 - **Typical response time:** within two working days.
 - **Support page:** [https://opcify.github.io/moliboard-support/](./)
